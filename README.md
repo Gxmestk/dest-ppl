@@ -2,6 +2,8 @@
 
 An interactive playground for procedural destruction of human models using Voronoi fracture and physics simulation.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **Voronoi Fracture** - Breaks meshes into realistic fragments

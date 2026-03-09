@@ -23,13 +23,10 @@ Thumbs.db
 .env.local
 .env.*.local
 
-# Debug/testing
+# Debug/testing (allow screenshot.png for README)
 *.png
+!screenshot.png
 !assets/**/*.png
-
-# Rust (if used)
-/target/
-Cargo.lock
 
 # Lock files (optional - some prefer to commit these)
 # skills-lock.json
